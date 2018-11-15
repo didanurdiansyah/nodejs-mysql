@@ -1,6 +1,14 @@
-Install : npm install mysql.
-Running : node start.js
+## Install : 
+```sh
+npm install mysql --save. 
+```
 
+## Running : 
+```sh
+node start.js. 
+```
+
+## Exammple :
 MySQL Create Database
 
 MySQL Create Table
