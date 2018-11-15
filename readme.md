@@ -1,3 +1,5 @@
+Install : npm install mysql
+
 MySQL Create Database
 
 MySQL Create Table
