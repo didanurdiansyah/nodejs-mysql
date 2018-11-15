@@ -1,4 +1,5 @@
-Install : npm install mysql
+Install : npm install mysql.
+Running : node start.js
 
 MySQL Create Database
 
